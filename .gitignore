@@ -1,1 +1,1 @@
-echo "config.ini" >> .gitignore
+config.ini
